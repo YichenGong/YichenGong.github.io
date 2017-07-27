@@ -82,9 +82,9 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Yichen is trying to decode the intelligence."
   location         : "New York"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "yichen.gong (at) nyu dot edu"
+  employer         : "New York University"
+  googlescholar    : "https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en"
+  email            : "yichen.gong@nyu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
