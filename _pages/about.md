@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate researcher under the advisement of professor Samuel Bowman at NYU with an interest in machine learning, especially in the joint field of natural language understanding and deep learning. I am affliated to [Machine Learning for Language group](https://wp.nyu.edu/ml2/) which is part of larger [CILVR lab](https://wp.nyu.edu/cilvr/), founded by Professor Yann LeCun.
+I am a undergraduate researcher under the advisement of professor Samuel Bowman at NYU with an interest in machine learning, especially in the joint field of natural language understanding and deep learning. I am affliated to [Machine Learning for Language group](https://wp.nyu.edu/ml2/), which is part of larger [CILVR lab](https://wp.nyu.edu/cilvr/) directed by Professor Yann LeCun.
 
 
 News
 ======
 * I'm currently the [record holder](https://inclass.kaggle.com/c/multinli-matched-open-evaluation/leaderboard) on MultiNLI dataset. The paper is coming out soon.
-* My preprint manuscript of [Ruminating Reader: Reasoning with Gated Multi-Hop Attention](https://arxiv.org/abs/1704.07415) is out. Ruminating Reader extends BiDAF to multi-hop version and improves performance by approximately 2% on SQuAD.
-* Our NYUDaD (NYU Data scientists as Doctors) team won the 23rd place in 2017 Data Science Bowl which requires candidates to use computer vision to identify malicious lung cancer nodule.
+* My preprint manuscript of [Ruminating Reader: Reasoning with Gated Multi-Hop Attention](https://arxiv.org/abs/1704.07415) is out. Ruminating Reader extends BiDAF to multi-hop attention version and improves performance by approximately 2% on SQuAD.
+* Our [NYUDaD](https://www.kaggle.com/c/data-science-bowl-2017/leaderboard) (NYU Data scientists as Doctors) team won the 23rd place in 2017 Data Science Bowl. The competition requires candidates to use computer vision to identify malicious lung cancer nodule.
 * I have solved the PacMan Game (v6.2 simulator) with weighted score function and search strategy. 
 * I have solved text game Machine of Death via deep reinforcement learning, specifically, multi-step Q-learning. The game is stocastic and not solved in paper [He et al.](https://arxiv.org/abs/1511.04636)
 
