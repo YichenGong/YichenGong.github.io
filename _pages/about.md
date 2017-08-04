@@ -16,7 +16,7 @@ News
 * I'm currently the [record holder](https://inclass.kaggle.com/c/multinli-matched-open-evaluation/leaderboard) on MultiNLI dataset. The paper is coming out soon.
 * My preprint manuscript of [Ruminating Reader: Reasoning with Gated Multi-Hop Attention](https://arxiv.org/abs/1704.07415) is out. Ruminating Reader extends BiDAF to multi-hop attention version and improves performance by approximately 2% on SQuAD.
 * Our [NYUDaD](https://www.kaggle.com/c/data-science-bowl-2017/leaderboard) (NYU Data scientists as Doctors) team won the 23rd place in 2017 Data Science Bowl. The competition requires candidates to use computer vision to identify malicious lung cancer nodule.
-* I have solved the PacMan Game (v6.2 simulator) with weighted score function and search strategy. 
+* I have solved the [Ms. Pac-Man Game (v6.2 simulator)](https://github.com/davidrobles/pacman-vs-ghosts) with weighted score function and search strategy. My agent triples the best score from [2011 competition](http://dces.essex.ac.uk/staff/sml/pacman/PacManContest.html) and touches the walltime without running out of lives.
 * I have solved text game Machine of Death via deep reinforcement learning, specifically, multi-step Q-learning. The game is stocastic and not solved in paper [He et al.](https://arxiv.org/abs/1511.04636)
 
 
