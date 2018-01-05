@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate researcher under the advisement of professor [Samuel Bowman](http://www.nyu.edu/projects/bowman/) at NYU with an interest in machine learning, especially in the joint field of natural language understanding and deep learning. I am affliated to [Machine Learning for Language group](https://wp.nyu.edu/ml2/), which is part of larger [CILVR lab](https://wp.nyu.edu/cilvr/) directed by Professor Yann LeCun.
+I am a undergraduate researcher under the advisement of professor [Samuel Bowman](http://www.nyu.edu/projects/bowman/) at NYU with an interest in machine learning, especially in the joint field of natural language understanding and deep learning. I am affliated to [Machine Learning for Language group](https://wp.nyu.edu/ml2/), which is part of larger [CILVR lab](https://wp.nyu.edu/cilvr/) founded by Professor Yann LeCun.
 
 
 News

@@ -2,11 +2,11 @@
 title: "Natural Language Inference over Interaction Space"
 collection: publications
 permalink: /publication/2017-09-13-interaction-space-2
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper explore attention mechanism by extracting semantic feature from it.'
 date: 2017-09-13
 venue: 'ICLR under review'
 paperurl: 'https://arxiv.org/abs/1709.04348'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Gong, Y., Luo, H., & Zhang, J. (2017). Natural Language Inference over Interaction Space. arXiv.org.'
 ---
 
 Abstract
