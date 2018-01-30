@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2017-09-13-interaction-space-2
 excerpt: 'This paper explore attention mechanism by extracting semantic feature from it.'
 date: 2017-09-13
-venue: 'ICLR under review'
+venue: 'ICLR 2018'
 paperurl: 'https://arxiv.org/abs/1709.04348'
-citation: 'Gong, Y., Luo, H., & Zhang, J. (2017). Natural Language Inference over Interaction Space. arXiv.org.'
+citation: 'Gong, Y., Luo, H., & Zhang, J. (2017). Natural Language Inference over Interaction Space. ICLR2018.'
 ---
 
 Abstract
