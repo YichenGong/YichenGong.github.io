@@ -13,8 +13,11 @@ I am a undergraduate researcher under the advisement of professor [Samuel Bowman
 
 News
 ======
-* My next project is going to be music generation. I learnt a lot about sequence generation from machine translation and the knowledge can be transferred to music!
-* I'm working on machine translation based on my summer discovery. The result is great. A new paper is expected to be submitted to ACL 2018.
+<!-- * My next project is going to be music generation. I learnt a lot about sequence generation from machine translation and the knowledge can be transferred to music!
+* I'm working on machine translation based on my summer discovery. The result is great. A new paper is expected to be submitted to ACL 2018. -->
+* I will Join Google Research as a intern in 2018 summer. 
+* I build a very strong agent for [Pommerman](https://www.pommerman.com/). In FFA mode, the winning chance against Simple Agent baseline is 68%, as a comparison, the expected winning chance is 25% if our agent is same as the baseline. Will I win the competition in NIPS? Let's see.
+* I received student travel award from ICLR2018. Thank you ICLR!
 * I broke the [record](https://inclass.kaggle.com/c/multinli-matched-open-evaluation/leaderboard) on MultiNLI dataset during summer. The paper [Natural Language Inference over Interaction Space](https://arxiv.org/abs/1709.04348) is out. Our approach reduced 20% of error rate against the strongest baseline at the time. It is accepted at ICLR 2018 as a poster paper.
 * My preprint manuscript of [Ruminating Reader: Reasoning with Gated Multi-Hop Attention](https://arxiv.org/abs/1704.07415) is out. Ruminating Reader extends BiDAF to multi-hop attention version and improves performance by approximately 2% on SQuAD.
 * Our [NYUDaD](https://www.kaggle.com/c/data-science-bowl-2017/leaderboard) (NYU Data scientists as Doctors) team won the 23rd place in 2017 Data Science Bowl. The competition requires candidates to use computer vision to identify malicious lung cancer nodule.
